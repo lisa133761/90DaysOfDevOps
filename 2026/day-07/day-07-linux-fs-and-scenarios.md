@@ -97,7 +97,7 @@
 
 2. cat /etc/hostname
    output:
-   ip-172-31-40-13
+   ip-172-31-1-107
 
 *To know about the ip address*
 
